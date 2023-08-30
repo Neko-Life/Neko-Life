@@ -1,6 +1,9 @@
-![](https://github-readme-stats.vercel.app/api?username=Neko-Life&show_icons=true&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neko-Life&layout=compact&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Neko-Life&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neko-Life&layout=compact&card_width=320&show_icons=true&theme=dark" />
+</a>
 
 > Stats by [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
 
