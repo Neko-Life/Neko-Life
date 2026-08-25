@@ -1,13 +1,8 @@
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Neko-Life&theme=dark" alt="GitHub Thropy">
+<img align="center" src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Neko-Life&theme=dark" alt="GitHub Thropy">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Neko-Life&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neko-Life&layout=compact&card_width=320&show_icons=true&theme=dark" />
-</a>
-
-> Stats by [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-stats-extended.vercel.app/api?username=Neko-Life&show_icons=true&theme=dark" />
+  
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Neko-Life&layout=compact&card_width=320&show_icons=true&theme=dark" />
 
 <!--
 <img src="https://github-trophies.vercel.app?username=Neko-Life&theme=onedark" alt="Github Thropy" />
