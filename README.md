@@ -1,5 +1,5 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Neko-Life&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Neko-Life&theme=onedark)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Neko-Life&show_icons=true&theme=dark" />
