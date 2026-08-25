@@ -1,3 +1,5 @@
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Neko-Life&theme=dark" alt="GitHub Thropy">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Neko-Life&show_icons=true&theme=dark" />
 </a>
